@@ -3,18 +3,10 @@
 ## Screenshoot
 <div class="ozzy">
     <div class="items">
-    	<h4 class="title-ozzy">Start UI</h4>
-		 <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111484-035556dd-d41e-4d8e-8292-59ea1fe0599b.png">  
+    	<h4 class="title-ozzy">Linktr UI</h4>
+		 <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163939418-be2f00c5-3ce3-437a-b0b2-10f347c4a493.png">  
     </div>
-  <div class="items">
-    	<h4 class="title-ozzy">Login UI</h4>
-		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111410-6f19c726-911e-4e2a-ac3d-b64bf7db280e.png">  
-    </div>
-  <div class="items">
-    	<h4 class="title-ozzy">Signup UI</h4>
-	  <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163111168-1d86dfa7-ff4a-4fee-b675-4031000a78d1.png"> 
-		
-    </div>
+  
     
 </div>
 </section>
