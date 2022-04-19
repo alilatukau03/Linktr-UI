@@ -1,38 +1,80 @@
-.App {
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* width: 100vh; */
+}
+
+.card{
+  background: grey;
+  color: white;
+  border-radius: 10px;
+  padding: 16px;
+  width: 300px;
+
+}
+
+.card h1{
+  font-size: 20px;
+}
+
+.mt-16{
+  margin-top: 16px;
+}
+
+.card p{
+  font-size: 16px;
+}
+
+.text-center{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.profile .avatar{
+  width: 90px;
+  height: 90px;
+  border-radius: 8px;
+  border: 2px solid white;
+  margin-bottom: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.card .btn_action{
+  padding: 10px 10px;
+  font-size: 16px;
+  text-decoration: none;
   color: white;
+  width: 100%;
+  display: flex;
+  border-radius: 8px;
+  border: 1px solid white;
+  transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.card .btn_action span{
+  margin-left: 8px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card .btn_action:hover{
+  background: pink;
+}
+
+.bg_content{
+  background: #18182c79;
+}
+
+.rd_12{
+  border-radius: 8px;
+}
+
+.p_8{
+  padding: 8px;
 }
