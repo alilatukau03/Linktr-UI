@@ -1,6 +1,6 @@
 <section id="screenshoot">
 	
-## Screenshoot
+# Screenshoot
 <div class="ozzy">
     <div class="items">
     	<h4 class="title-ozzy">Linktr UI</h4>
