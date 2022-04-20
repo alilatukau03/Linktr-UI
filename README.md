@@ -4,7 +4,7 @@
 <div class="ozzy">
     <div class="items">
     	<h4 class="title-ozzy">Linktr UI</h4>
-		 <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163939418-be2f00c5-3ce3-437a-b0b2-10f347c4a493.png">  
+		 <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/163939418-be2f00c5-3ce3-437a-b0b2-10f347c4a493.png" | width=200>  
     </div>
   
     
